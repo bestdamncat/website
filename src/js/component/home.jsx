@@ -6,6 +6,9 @@ import bbImage from "../../img/buckbundy.gif";
 
 const Home = () => {
   return (
+    <div className="container">
+      <div className="text-center" style={{ width: '80%', margin: '0 auto' }}>
+
     <div className="text-center">
       <h1 className="text-center mt-5">Buck Bundy</h1>
       <h3>I may be just a dog, but even I know that money is like a bone buried in the backyard: hard to find and never enough to go around!</h3>
@@ -24,6 +27,8 @@ const Home = () => {
       <p>
         <img src={bbImage} />
       </p>
+    </div>
+      </div>
     </div>
   );
 };
