@@ -24,8 +24,9 @@ const Home = () => {
         </a>
 
       </p>			
-      <p>
-        <img src={bbImage} />
+      <p> 
+        <img src={bbImage} style={{ width: '100%', height: 'auto' }} alt="Breaking Bad" />
+  
       </p>
     </div>
       </div>
