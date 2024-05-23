@@ -16,7 +16,7 @@ const Home = () => {
           <FontAwesomeIcon icon={faTwitter} style={{ fontSize: '1.2em', marginRight: '5px' }} />
         </a>	
 			
-        <a href="https://t.me/buckbundysol" style={{ fontFamily: 'Arial, sans-serif', color: '#0088cc', textDecoration: 'none' }}>
+        <a href="https://t.me/buckbundy" style={{ fontFamily: 'Arial, sans-serif', color: '#0088cc', textDecoration: 'none' }}>
           <FontAwesomeIcon icon={faTelegram} style={{ fontSize: '1.2em', marginRight: '5px' }} />
         </a>
 
